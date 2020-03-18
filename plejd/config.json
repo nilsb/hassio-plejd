@@ -15,6 +15,7 @@
   "boot": "auto",
   "host_network": true,
   "host_dbus": true,
+  "apparmor": false,
   "options": {
     "site": "Default Site",
     "username": "",
